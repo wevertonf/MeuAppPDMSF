@@ -1,0 +1,282 @@
+{
+  "times": [
+    {
+      "nome": "Fortaleza",
+      "cor": "blue",
+      "conquista": "Série B do Campeonato Brasileiro 2018 e Copa do Nordeste (4 títulos)",
+      "escudo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2017/04/fortaleza-escudo.png?resize=512%2C512&ssl=1",
+      "fundacao": "1918-10-18",
+      "treinador": "Juan Pablo Vojvoda",
+      "jogadores": {
+        "Goleiro": ["Brenno", "João Ricardo", "Magrão"],
+        "Zagueiro": ["Gastón Ávila", "Benjamín Kuscevic", "Emanuel Brítez", "David Luiz", "Titi"],
+        "Lateral": ["Felipe Jonatan", "Bruno Pacheco", "Diogo Barbosa", "Eros Mancuso", "Tinga"],
+        "Meio-campo": ["Zé Welison", "Lucas Sasha", "Pedro Augusto", "Matheus Rossetto", "Pol Fernández", "Tomás Pochettino", "Calebe", "Emmanuel Martínez", "Kervin Andrade"],
+        "Atacante": ["Moisés", "Breno Lopes", "Dylan Borrero", "Allanzinho", "Yago Pikachu", "Marinho", "Juan Martín Lucero", "Deyverson"]
+    },
+      "competicoes": [
+      	{
+          "nome": "Campeonato Cearense",
+          "tipo": "Estadual",
+          "fase": "Final (Concluído em 06/04)",
+          "inicio": "20/01/2025",
+          "fim": "06/04/2025"
+        },
+        {
+          "nome": "Campeonato Brasileiro Série A",
+          "tipo": "Nacional",
+          "fase": "4ª Rodada",
+          "inicio": "05/04/2025",
+          "fim": "07/12/2025"
+        },
+        {
+          "nome": "Copa do Brasil",
+          "tipo": "Nacional",
+          "fase": "3ª Fase (Oitavas de final)",
+          "inicio": "19/02/2025",
+          "fim": "20/09/2025"
+        },
+        {
+          "nome": "Copa Libertadores",
+          "tipo": "Internacional",
+          "fase": "Fase de Grupos",
+          "inicio": "02/04/2025",
+          "fim": "28/05/2025"
+        },
+        {
+          "nome": "Copa Nordeste",
+          "tipo": "Regional",
+          "fase": "Fase de Grupos",
+          "inicio": "10/02/2025",
+          "fim": "25/05/2025"
+        }
+      ]
+    },
+    {
+      "nome": "Internacional",
+      "cor": "red",
+      "conquista": "Mundial de Clubes da FIFA 2006",
+      "escudo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/Internacional-logo.png?resize=512%2C512&ssl=1",
+      "fundacao": "1909-04-04",
+      "treinador": "Roger Machado",
+      "jogadores": {
+        "Goleiro": ["Sergio Rochet", "Anthoni", "Ivan", "Kauan"],
+        "Zagueiro": ["Vitão", "Kaique Rocha", "Victor Gabriel", "Juninho", "Clayton", "Agustín Rogel", "Gabriel Mercado", "Pedro Kauã"],
+        "Lateral": ["Alexandro Bernabei", "Ramon", "Pablo", "Bruno Gomes", "Nathan", "Braian Aguirre"],
+        "Meio-campo": ["Thiago Maia", "Fernando", "Ronaldo", "Diego Rosa", "Luis Otávio", "Bernardo Jacob", "Gustavo", "Gustavo Prado", "Bruno Henrique", "Alan Patrick", "Óscar Romero", "Estêvão", "Yago Noal"],
+        "Atacante": ["Wesley", "Vitinho", "Johan Carbonero", "Gabriel Carvalho", "Bruno Tabata", "Marlinho", "Rafael Borré", "Enner Valencia", "Lucca", "Ricardo Mathias", "Lucca Drummond"]
+    },
+      "competicoes": [
+        {
+          "nome": "Campeonato Brasileiro Série A",
+          "tipo": "Nacional",
+          "fase": "4ª Rodada",
+          "inicio": "05/04/2025",
+          "fim": "07/12/2025"
+        },
+        {
+          "nome": "Copa Libertadores",
+          "tipo": "Internacional",
+          "fase": "Fase de Grupos",
+          "inicio": "02/04/2025",
+          "fim": "28/05/2025"
+        },
+        {
+          "nome": "Campeonato Gaúcho",
+          "tipo": "Estadual",
+          "fase": "Final (Concluído em 30/03)",
+          "inicio": "20/01/2025",
+          "fim": "30/03/2025"
+        },
+        {
+          "nome": "Copa do Brasil",
+          "tipo": "Nacional",
+          "fase": "4ª Fase (Quartas de final)",
+          "inicio": "12/03/2025",
+          "fim": "20/09/2025"
+        }
+      ]
+    },
+    {
+      "nome": "Grêmio",
+      "cor": "blue",
+      "conquista": "Copa Libertadores da América (1983, 1995 e 2017)",
+      "escudo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/gr%C3%AAmio-escudo.png?fit=512%2C512&ssl=1",
+      "fundacao": "1903-09-15",
+      "treinador": "Gustavo Quinteros",
+      "jogadores": {
+        "Goleiro": ["Gabriel Grando", "Tiago Volpi", "Jorge"],
+        "Zagueiro": ["Gustavo Martins", "Wagner Leonardo", "Rodrigo Ely", "Jemerson", "Walter Kannemann", "Viery"],
+        "Lateral": ["Luan Cândido", "Lucas Esteves", "Mayk", "João Pedro", "João Lucas", "Igor Serrote"],
+        "Meio-campo": ["Mathías Villasanti", "Gustavo Cuéllar", "Ronald", "Camilo", "Dodi", "Edenilson", "Franco Cristaldo", "Miguel Monsalve", "Gabriel Silva", "Nathan", "Gabriel Mec"],
+        "Atacante": ["Alexander Aravena", "Francis Amuzu", "Cristian Olivera", "Cristian Pavón", "Matías Arezo", "Martin Braithwaite", "André Henrique"]
+    },
+      "competicoes": [
+        {
+          "nome": "Campeonato Brasileiro Série A",
+          "tipo": "Nacional",
+          "fase": "4ª Rodada",
+          "inicio": "05/04/2025",
+          "fim": "07/12/2025"
+        },
+        {
+          "nome": "Copa Sul-Americana",
+          "tipo": "Internacional",
+          "fase": "Fase de grupos",
+          "inicio": "15/04/2025",
+          "fim": "12/11/2025"
+        },
+        {
+          "nome": "Campeonato Gaúcho",
+          "tipo": "Estadual",
+          "fase": "Final (Concluído em 30/03)",
+          "inicio": "20/01/2025",
+          "fim": "30/03/2025"
+        },
+        {
+          "nome": "Copa do Brasil",
+          "tipo": "Nacional",
+          "fase": "3ª Fase",
+          "inicio": "05/03/2025",
+          "fim": "20/09/2025"
+        }
+      ]
+    },
+    {
+      "nome": "Ceará",
+      "cor": "gray",
+      "conquista": "Campeonato Cearense (45 títulos) e Copa do Nordeste (3 títulos)",
+      "escudo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2017/04/ceara-escudo.png?w=512&ssl=1",
+      "fundacao": "1914-06-02",
+      "treinador": "Léo Condé",
+      "jogadores": {
+        "Goleiro": ["Keiller", "Bruno", "Richard", "Fernando Miguel"],
+        "Zagueiro": ["Ramon Menezes", "Éder", "Willian Machado", "Gabriel Lacerda", "Marllon", "Marcos Victor", "Luiz Otávio"],
+        "Lateral": ["Matheus Bahia", "Nicolas", "Fabiano", "Dieguinho", "Rafael Ramos"],
+        "Meio-campo": ["Richardson", "Lucas Lima", "Lourenço", "Fernando Sobral", "Léo Rafael", "Matheus Araújo", "Rômulo", "Jorge Recalde", "Lucas Mugni"],
+        "Atacante": ["Alejandro Martínez", "Fernandinho", "João Victor", "Antonio Galeano", "Pedro Henrique", "Bruno Tubarão", "Zé Neto", "Pedro Raul", "Lelê", "Aylon", "Guilherme Luiz"]
+    },
+      "competicoes": [
+        {
+          "nome": "Campeonato Brasileiro Série A",
+          "tipo": "Nacional",
+          "fase": "4ª Rodada",
+          "inicio": "05/04/2025",
+          "fim": "07/12/2025"
+        },
+        {
+          "nome": "Copa do Brasil",
+          "tipo": "Nacional",
+          "fase": "2ª Fase",
+          "inicio": "26/02/2025",
+          "fim": "20/09/2025"
+        },
+        {
+          "nome": "Campeonato Cearense",
+          "tipo": "Estadual",
+          "fase": "Final (Concluído em 06/04)",
+          "inicio": "20/01/2025",
+          "fim": "06/04/2025"
+        },
+        {
+          "nome": "Copa Nordeste",
+          "tipo": "Regional",
+          "fase": "Fase de Grupos",
+          "inicio": "10/02/2025",
+          "fim": "25/05/2025"
+        }
+      ]
+    },
+    {
+      "nome": "Vasco da Gama",
+      "cor": "gray",
+      "conquista": "Copa Libertadores da América 1998",
+      "escudo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/logo-vasco-da-gama-1.png?w=320&ssl=1",
+      "fundacao": "1898-08-21",
+      "treinador": "Fábio Carille",
+      "jogadores": {
+        "Goleiro": ["Léo Jardim", "Daniel Fuzato", "Alexander", "Pablo"],
+        "Zagueiro": ["João Victor", "Mauricio Lemos", "Lucas Oliveira", "Manuel Capasso", "Lucas Freitas", "Souza"],
+        "Lateral": ["Lucas Piton", "Riquelme", "Victor Luís", "José Luis Rodríguez", "Paulo Henrique"],
+        "Meio-campo": ["Juan Sforza", "Jair", "Hugo Moura", "Patrick de Lucca", "Mateus Carvalho", "Tchê Tchê", "Paulinho Paula", "Philippe Coutinho", "Dimitri Payet", "Guilherme Estrella"],
+        "Atacante": ["Benjamín Garré", "Nuno Moreira", "Jean Meneses", "David", "Rayan", "Adson", "Loide Augusto", "Alex Teixeira", "Pablo Vegetti"]
+    },
+      "competicoes": [
+        {
+          "nome": "Campeonato Brasileiro Série A",
+          "tipo": "Nacional",
+          "fase": "4ª Rodada",
+          "inicio": "05/04/2025",
+          "fim": "07/12/2025"
+        },
+        {
+          "nome": "Copa do Brasil",
+          "tipo": "Nacional",
+          "fase": "3ª Fase",
+          "inicio": "19/02/2025",
+          "fim": "20/09/2025"
+        },
+        {
+          "nome": "Campeonato Carioca",
+          "tipo": "Estadual",
+          "fase": "Final (Concluído em 05/04)",
+          "inicio": "20/01/2025",
+          "fim": "05/04/2025"
+        },
+        {
+          "nome": "Copa Sul-Americana",
+          "tipo": "Internacional",
+          "fase": "Fase de grupos",
+          "inicio": "18/04/2025",
+          "fim": "15/12/2025"
+        }
+      ]
+    },
+    {
+      "nome": "Racing Club",
+      "cor": "blue",
+      "conquista": "Campeonato Argentino (2022)",
+      "escudo": "https://kitsdreamleaguesoccer.com/wp-content/uploads/2019/04/escudo-racing-club-dream-league-soccer-512-logo.png",
+      "fundacao": "1903-03-25",
+      "treinador": "Gustavo Costas",
+      "jogadores": {
+        "Goleiro": ["Facundo Cambeses", "Gastón Gómez", "Gabriel Arias"],
+        "Zagueiro": ["Marco Di Césare", "Santiago Sosa", "Nazareno Colombo", "Santiago Quirós", "Agustín García Basso", "Germán Conti", "Gonzalo Escudero"],
+        "Lateral": ["Bruno Zuculini", "Gabriel Rojas", "Fabián Sánchez", "Fernando Prado", "Gastón Martirena", "Facundo Mura"],
+        "Meio-campo": ["Juan Ignacio Nardoni", "Richard Sánchez", "Agustín Almendra", "Martín Barrios", "Ignacio Rodríguez", "Matías Zaracho", "Adrián Fernández", "David González"],
+        "Atacante": ["Santiago Solari", "Ramiro Degregorio", "Adrián Martínez", "Maximiliano Salas", "Luciano Vietto", "Adrián Balboa"]
+    },
+      "competicoes": [
+        {
+          "nome": "Liga Profesional de Fútbol",
+          "tipo": "Nacional",
+          "fase": "Zona A (5ª Rodada)",
+          "inicio": "26/01/2025",
+          "fim": "25/05/2025"
+        },
+        {
+          "nome": "Copa Libertadores",
+          "tipo": "Internacional",
+          "fase": "Grupo C (5ª Rodada)",
+          "inicio": "02/04/2025",
+          "fim": "28/05/2025"
+        },
+        {
+          "nome": "Copa Argentina",
+          "tipo": "Nacional",
+          "fase": "32 avos de final",
+          "inicio": "15/03/2025",
+          "fim": "15/12/2025"
+        },
+        {
+          "nome": "Troféu de Campeones",
+          "tipo": "Nacional",
+          "fase": "Agendado para junho",
+          "inicio": "15/06/2025",
+          "fim": "20/06/2025"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,68 @@
+{
+    "times": [
+      {
+        "time": "Grêmio",
+        "facanha": "Tri-campeão da Libertadores",
+        "simbolo": "https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/gr%C3%AAmio-escudo.png?fit=512%2C512&ssl=1",
+        "jogadores": {
+          "Goleiro": ["Adriel", "Tiago Volpi", "Gabriel Grando"],
+            "Zagueiro": ["Gustavo Martins", "Rodrigo Ely", "Wagner Leonardo", "Natã", "Jemerson", "Walter Kannemann", "Viery"],
+            "Lateral": ["Luan Cândido", "Lucas Esteves", "Mayk", "João Pedro", "João Lucas"],
+            "Meio-campo": ["Dodi", "Villasanti", "Cristaldo", "Pepê", "Edenilson", "Ronald", "Nathan Pescador", "Milla", "Hiago"],
+            "Atacante": ["Aravena", "Soteldo", "Braithwaite", "Pavon", "Diego Costa", "Arezo", "Nathan Fernandes", "André Henrique", "Lian", "Jardiel"]
+        },
+        "competicoes": [
+            { "nome": "Libertadores", "tipo": "Internacional", "fase": "Fase de grupos", "inicio": "01/03", "fim": "15/11" },
+            { "nome": "Brasileirão", "tipo": "Nacional", "fase": "Rodada 5", "inicio": "10/04", "fim": "10/12" }
+        ]        
+      },
+      {
+        "time": "Internacional",
+        "facanha": "Campeão do Mundo",
+        "simbolo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Escudo_do_Sport_Club_Internacional.svg/2048px-Escudo_do_Sport_Club_Internacional.svg.png",
+        "jogadores": {
+            "Goleiro": ["Sergio Rochet", "Ivan", "Keiller", "Anthoni", "Gabriel Barros"],
+            "Zagueiro": ["Vitão", "Kaique Rocha", "Juninho", "Clayton", "Agustín Rogel", "Gabriel Mercado", "Victor Gabriel", "Pedro Kauã"],
+            "Lateral": ["Alexandro Bernabei", "Gabriel", "Ramon", "Kauan"],
+            "Meio-campo": ["Matheus Dias", "Hyoran", "Estêvão"],
+            "Atacante": ["Alemão", "Gabriel Carvalho", "Vitinho", "Johan Carbonero"]
+        },
+        "competicoes": [
+            { "nome": "Copa do Brasil", "tipo": "Mata-mata", "fase": "Quartas de final", "inicio": "05/04", "fim": "30/11" },
+            { "nome": "Sul-Americana", "tipo": "Internacional", "fase": "Oitavas de final", "inicio": "20/02", "fim": "10/12" }
+        ]
+      },
+      {
+        "time": "Palmeiras",
+        "facanha": "Libertadores",
+        "simbolo": "https://logodetimes.com/times/palmeiras/logo-palmeiras-2048.png",
+        "jogadores": {
+            "Goleiro": ["Weverton", "Marcelo Lomba", "Vinícius Silvestre"],
+            "Zagueiro": ["Gustavo Gómez", "Murilo", "Luan", "Renan", "Jailson", "Kuscevic", "Naves"],
+            "Lateral": ["Marcos Rocha", "Mayke", "Piquerez", "Jorge", "Gabriel Menino", "Caio Paulista"],
+            "Meio-campo": ["Zé Rafael", "Danilo", "Atuesta", "Emiliano Martínez", "Gabriel Furtado", "Patrick de Paula", "Rafael Navarro", "Vitinho", "Estêvão Willian"],
+            "Atacante": ["Rony", "Dudu", "Endrick", "Lázaro", "Artur", "Facundo Torres", "Paulinho"]
+        },
+        "competicoes":[
+            { "nome": "Libertadores", "tipo": "Internacional", "fase": "Fase de grupos", "inicio": "01/03", "fim": "15/11" },
+            { "nome": "Paulistão", "tipo": "Estadual", "fase": "Fase final", "inicio": "15/01", "fim": "05/04" }
+        ]
+      },
+      {
+        "time": "Fortaleza",
+        "facanha": "Série B do Campeonato Brasileiro",
+        "simbolo": "https://pbs.twimg.com/media/DjWsx7kW4AEesR3.png",
+        "jogadores": {
+            "Goleiro": ["Brenno", "João Ricardo", "Magrão"],
+            "Zagueiro": ["Gastón Ávila", "Benjamín Kuscevic", "Emanuel Brítez", "David Luiz", "Titi", "Bernardo Schappo", "Habraão"],
+            "Lateral": ["Felipe Jonatan", "Bruno Pacheco", "Diogo Barbosa", "Eros Mancuso", "Tinga"],
+            "Meio-campo": ["Zé Welison", "Lucas Sasha", "Imanol Machuca", "Luquinhas", "Guilherme Cachoeira"],
+            "Atacante": ["Yago Pikachu", "Luciano Juba", "Robson de Souza", "Silvio Romero", "Moisés", "Lucas Lima", "Gustavo Coutinho"]
+        },
+        "competicoes":[
+            { "nome": "Copa do Nordeste", "tipo": "Regional", "fase": "Final", "inicio": "05/02", "fim": "20/06" },
+            { "nome": "Brasileirão", "tipo": "Nacional", "fase": "Rodada 5", "inicio": "10/04", "fim": "10/12" }
+        ]
+      }
+    ]
+  }
